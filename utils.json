@@ -1,0 +1,17 @@
+{
+    "name": "rest-email_generator",
+    "deps": {
+        "rest-render_engine": {
+            "owner": "aramtech",
+            "repo": "rest-render_engine",
+            "update_policy": "major",
+            "version": "0.1.0"
+        }
+    },
+    "owner": "aramtech",
+    "private": false,
+    "public_repo": false,
+    "hash": "c8xlvbE3SZIhOG69p1tTEQS_thTmENwd-KeFzd1eNck",
+    "version": "0.2.2",
+    "description": ""
+}
